@@ -45,7 +45,7 @@
 
 ---
 
-## ⚙️ Tech Stack (refreshed)
+## ⚙️ Tech Stack
 <!-- Grouped for clarity; all icons are dark/light friendly -->
 - Languages
   <div>
